@@ -17,15 +17,15 @@ A comprehensive **Django** project that create a Django web application with CRU
 ## 📸 Screenshots
 
 ### 1️⃣ Home Page  
-![image](https://github.com/user-attachments/assets/00fa705c-54ac-4be0-9e3c-ea32ff4e26a5)
+![image](https://github.com/user-attachments/assets/0871d630-30c9-41cc-8f51-41d531657d40)
 
 
 ### 2️⃣ Members Page  
-![image](https://github.com/user-attachments/assets/368ecd2b-f877-4d16-8a2d-086a7b46fab5)
+![image](https://github.com/user-attachments/assets/d63026f5-840b-4e92-a392-55d827c9bf2c)
 
 
 ### 3️⃣ Access the Django Administration
-![image](https://github.com/user-attachments/assets/61a8b41b-11e0-4920-b1de-b763fa677c22)
+![image](https://github.com/user-attachments/assets/c58a9e35-f744-4247-911b-589ab7247af0)
 
 
 ---
